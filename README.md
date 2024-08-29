@@ -2,10 +2,9 @@
 **💬 A little bit about me**: Software Engineer in the works, I have a deep passion for breaking things and fixing them!<br>
 😄 **Pronouns:** *He/Him/His*<br>
 🔭 **Currently learning @ AppAcademy**<br><br>
-<img src="https://camo.githubusercontent.com/37510704440cbe52124c79972564111a38f73f98e982a0bcf3533bf371e84d6d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578615735704f584d3262573170633252695a444e6c63484e715a4739774e5759774d6d63314d6d6b334d6e6b3564576c6a4f5868325a795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f683430385436593547666d58424b5736326c2f67697068792e676966" alt="" data-canonical-src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5pOXM2bW1pc2RiZDNlcHNqZG9wNWYwMmc1Mmk3Mnk5dWljOXh2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="300" height="200">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5pOXM2bW1pc2RiZDNlcHNqZG9wNWYwMmc1Mmk3Mnk5dWljOXh2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="300" height="200">
 
 <!--
-<img src="https://camo.githubusercontent.com/3284b9bdab02bdac3f830efe6f4d8c7fa61af6cac63c6eb63d8c8a9009d6d698/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626e70356154526d5a474e32635842684d325a77616a4932636d3432596d737a64473976596d593164586b354e32706e645774325a435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f487a5074624f4b79426f4246734b346879632f67697068792e676966" alt="" data-canonical-src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnp5aTRmZGN2cXBhM2ZwajI2cm42YmszdG9vYmY1dXk5N2pndWt2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" height="200">
 **Mayboyzz/mayboyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
