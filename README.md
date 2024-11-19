@@ -2,10 +2,9 @@
   <h2>Hi 👋 I'm Christian!</h2>
   <span>💬 A little bit about me: Software Engineer in the works, I have a deep passion for breaking things and fixing them!</span> <br>
   <span>😄 Pronouns: He/Him/His</span> <br>
-  <span>🔭 Currently learning @ AppAcademy</span> <br>
+  <span>Ask me about: <br>
   <span>&nbsp;&nbsp;</span> <br>
   <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5pOXM2bW1pc2RiZDNlcHNqZG9wNWYwMmc1Mmk3Mnk5dWljOXh2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" width="300" height="200"> <br>
-  <span>&nbsp;&nbsp;</span>
 </div>
 
 
@@ -23,6 +22,7 @@
   <span>&nbsp;&nbsp;</span>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <span>&nbsp;&nbsp;</span>
+  <img align="center" src="./assets/docker-mark-blue.png" height="30" alt="docker logo"  />
 </div>
 
 <div align="center">
